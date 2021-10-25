@@ -12,4 +12,5 @@ Algoritmo valor_maximo
 		Fin Si
 	Fin Para
 	Escribir "El numero mayor es ",mayor;
+	Escribir "Ahora es mucho mas mejorado y mejor";
 FinAlgoritmo
